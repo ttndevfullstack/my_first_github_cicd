@@ -3,10 +3,10 @@ def hello():
 
 def beautifull():
     print("You are beautifull!!!")
-    
-def goobye():
+
+def goodbye():
     print("Goodbye!!!")
 
-print(hello())
-print(beautifull())
-print(goobye())
+hello()
+beautifull()
+goodbye()
